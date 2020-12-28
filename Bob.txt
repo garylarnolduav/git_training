@@ -1,1 +1,2 @@
-Hi! I'm Bob. I'm a file someone added to this repository a while ago.
+Hi! I'm Bob. I'm a file someone added to this repository a while ago. 
+Bob really likes to work on drones. He is an enthusiast!
